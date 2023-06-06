@@ -43,3 +43,5 @@ console.log('helloItem', helloItem);
 
 helloItem.classList.add('dark', 'one');
 helloItem.classList.remove('dark');
+
+helloItem.classList.remove('dark');
